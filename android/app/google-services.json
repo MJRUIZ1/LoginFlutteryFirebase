@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "277658610246",
+    "firebase_url": "https://loginfirebase-71245.firebaseio.com",
+    "project_id": "loginfirebase-71245",
+    "storage_bucket": "loginfirebase-71245.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277658610246:android:5d917c3701ae0e72ed7847",
+        "android_client_info": {
+          "package_name": "com.example.pantallas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277658610246-b7tk11f1jjcqsp8htuc3c15osjm5lkfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABusgDhYAwPGaDkyZoU7ba_POTzZkb3zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277658610246-b7tk11f1jjcqsp8htuc3c15osjm5lkfv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
